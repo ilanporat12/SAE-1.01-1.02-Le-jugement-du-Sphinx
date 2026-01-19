@@ -1,0 +1,3 @@
+Sphinx : Vous devez répondre à une série de questions. Vous n'avez que 3 chances.
+Si vous avez plus de bonnes réponses que l'autre joueur, vous survivrez.
+Sphinx : Sinon, l'autre survivra et vous paierez le prix de votre vie.

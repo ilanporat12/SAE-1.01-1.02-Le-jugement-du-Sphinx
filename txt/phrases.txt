@@ -1,0 +1,19 @@
+Entrez votre nom : 
+Saisissez le nom du joueur 1 :
+Saisissez le nom du joueur 2 :
+Réponse de 
+Au tour de 
+ : 
+Votre Score est de : 
+Bonne Réponse!
+Mauvaise Réponse!
+Appuyez sur Entrée pour retourner au menu (ou tapez STOP pour quitter) :
+ a retrouvé la surface et sa liberté.
+ a subi le jugement du Sphinx.
+Le Sphinx est indécis... Égalité parfaite.
+Voyons si 
+ fera mieux que 
+Appuyez sur une touche pour passer au joueur suivant...
+Sphinx : 
+Entrez un nom valide(pas d'espace): 
+Appuyez sur une touche pour jouer ...

@@ -1,0 +1,3 @@
+Sphinx: Tu as échoué.
+
+[Le joueur a subi le jugement du Sphinx.]

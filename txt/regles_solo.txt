@@ -1,0 +1,4 @@
+Sphinx: Je vais te poser une série de questions.
+        Si tu réponds correctement à 15 de celle-ci je te laisserai passer.
+        Trompe-toi 3 fois et faire demi-tour sera ton seul choix.
+        L'orthographe sera bien évidemment prise en compte.

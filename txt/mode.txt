@@ -1,0 +1,3 @@
+veuillez choisir un mode un jeu :
+1)solo
+2)duo
